@@ -1,0 +1,96 @@
+/* ---------------------------------  General Styles --------------------------------------------- */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* -------------------------------------- Active class for item hover -------------------------------------- */
+.active {
+  background-color: #048fd2;
+  display: none;
+}
+
+/* ----------------------------------  Menu Items and Music Menu Items -------------------------------------- */
+.list {
+  text-align: center;
+  padding-top: 1.2rem;
+  font-weight: 700;
+  font-size: 16px;
+  display: grid;
+  grid-template-columns: 85% 15%;
+}
+
+.fa-solid {
+  margin-top: 6px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+/* ------------------ Screen --------------------------- */
+#screen{
+  width: 300px;
+  height: 300px;
+  background-color:lavender;
+  border-radius: 4px;
+  border: 4px solid black;
+  background-position: center;
+  background-size: cover;
+}
+
+
+/* ---------------- Lockscreen ------------- */
+.lock {
+  opacity: 0.4;
+}
+
+/* ---------------------- Item Cover Styles ------------------------ */
+#cover {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  justify-items: center;
+  align-items: center;
+  background-image: url("../assets/images/bg.jpg");
+}
+.cover img {
+  border: 2px black solid;
+  border-radius: 4px;
+  width: 100px;
+}
+#borderBlack {
+  border: 2px whitesmoke solid;
+}
+
+/*--------------------------- Item Game Styles  ---------------------------  */
+#games img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+/*--------------------------- Item setting Styles  ---------------------------  */
+#settings img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* ------------------------ Music Player ----------------------------- */
+
+
+#footer img{
+    object-fit: 100%;
+    width: 75%;
+    height: 75%;
+    margin-bottom: 0.4rem;
+    border-radius: 5px;
+    margin: auto;
+}
+
