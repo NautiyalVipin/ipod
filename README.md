@@ -1,6 +1,6 @@
 # Ipod App - ReactJS 🚀
 
-![alt text](/ipod/src/assets/images/14.jpg)
+![alt text](/assets/images/14.jpg)
 
 
 ## ⭐ Introduction 
@@ -77,10 +77,10 @@ using next and previous buttons, from any menu or screen throughout the app.
 
 ## 💻 Screens
 
-![alt text](/ipod/src/assets/images/15.jpg)
-![alt text](/ipod/src/assets/images/16.jpg)
-![alt text](/ipod/src/assets/images/17.jpg)
-![alt text](/ipod/src/assets/images/18.jpg)
+![alt text](/assets/images/15.jpg)
+![alt text](/assets/images/16.jpg)
+![alt text](/assets/images/17.jpg)
+![alt text](/assets/images/18.jpg)
 
 
 <br/>
