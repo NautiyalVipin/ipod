@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ipod/static/css/main.7d3ea662.css",
+    "main.js": "/ipod/static/js/main.9fa23ac5.js",
+    "static/media/3.mp3": "/ipod/static/media/3.d8eda8e435afad5e4d5d.mp3",
+    "static/media/4.mp3": "/ipod/static/media/4.7f21affc3841cd127737.mp3",
+    "static/media/1.mp3": "/ipod/static/media/1.c5380157d44f6008f3a8.mp3",
+    "static/media/7.mp3": "/ipod/static/media/7.c5380157d44f6008f3a8.mp3",
+    "static/media/5.mp3": "/ipod/static/media/5.cfa70d017ebb9f09d03e.mp3",
+    "static/media/6.mp3": "/ipod/static/media/6.cfa70d017ebb9f09d03e.mp3",
+    "static/media/8.mp3": "/ipod/static/media/8.cfa70d017ebb9f09d03e.mp3",
+    "static/media/2.mp3": "/ipod/static/media/2.bfbb9969c6a4d391d3af.mp3",
+    "static/media/10.jpg": "/ipod/static/media/10.848434a00853542293eb.jpg",
+    "static/media/8.jpg": "/ipod/static/media/8.fce1657fd267a8de38fe.jpg",
+    "static/media/1.jpg": "/ipod/static/media/1.e6d4d6aec3a49b94d161.jpg",
+    "static/media/4.jpg": "/ipod/static/media/4.1464aa4be0a8b88d2ccf.jpg",
+    "static/media/settings.jpg": "/ipod/static/media/settings.3df147a92cab9d029e81.jpg",
+    "static/media/Games.jpg": "/ipod/static/media/Games.57db3cb0a99bae850547.jpg",
+    "static/media/bgMain.jpg": "/ipod/static/media/bgMain.4ae06c464d6b624b4742.jpg",
+    "static/media/11.jpg": "/ipod/static/media/11.a027015dc7a20c147d12.jpg",
+    "static/media/9.jpg": "/ipod/static/media/9.d7fd78b73b17abf4b8b8.jpg",
+    "static/media/12.jpg": "/ipod/static/media/12.7293f2969bfdec58102c.jpg",
+    "index.html": "/ipod/index.html",
+    "main.7d3ea662.css.map": "/ipod/static/css/main.7d3ea662.css.map",
+    "main.9fa23ac5.js.map": "/ipod/static/js/main.9fa23ac5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d3ea662.css",
+    "static/js/main.9fa23ac5.js"
+  ]
+}
